@@ -143,13 +143,6 @@ npm run dev
 * Multi-group support
 * Export reports
 * Authentication
-
----
-
-## 🎥 Demo Video
-
-👉 (Add your Loom / video link here)
-
 ---
 
 ## 🙌 Final Notes
@@ -167,8 +160,6 @@ Rather than just completing requirements, the goal was to build something that *
 ## 👤 Author
 
 Your Name
-GitHub: (your profile link)
+GitHub: (your profile link)](https://github.com/deepikakudari)
 
----
 
-⭐ If you like this project, feel free to star it!
